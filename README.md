@@ -7,7 +7,7 @@ Beyond programming, I love connecting with others in the tech community. Feel fr
 
 <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,react,redux,,nextjs,nodejs,express,bootstrap,heroku,linux,firebase,mongodb,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,react,redux,nextjs,nodejs,express,bootstrap,heroku,linux,firebase,mongodb,mysql,postman" />
     <img src="https://skillicons.dev/icons?i=html,css,c,cs,cpp,js,java,py" />
   </a>
 </p>
